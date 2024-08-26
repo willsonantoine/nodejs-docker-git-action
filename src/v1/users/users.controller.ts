@@ -27,4 +27,5 @@ const load_type = async (req: Request, res: Response) => {
     );
   }
 };
+
 export default { create_account, load_type };
